@@ -25,14 +25,14 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 ## Education
 
 <br>
-BS Software Engineering, Sindh Madressatul Islam University, 5th Semester
-(2021-2025) Karachi. <br><br>
+BS Software Engineering, Sindh Madrasa-tul-Islam University City Campus Karachi, "5th Semester"
+(2021-2025). <br><br>
 
 Intermediate in Pre-Engineering, Islamia Government Science College Karachi
-(2018-2020) Karachi. <br>
+(2018-2020). <br>
 
 Matric in Science, Haji Akber School Karachi
-(2016-2018) Karachi.
+(2016-2018).
 
 <hr>
 
