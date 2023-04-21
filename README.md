@@ -22,7 +22,7 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 
 <h3 align="center">Interested in anything related to Tech</h3>
 
-<img align="left" alt="GIF" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif" width="1000">
+<img align="left" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2F5f0f52604b03ad80c82db790c474993c&psig=AOvVaw30Z10GBqj-87LOX3PoGzLy&ust=1682182022701000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKDCtMW2u_4CFQAAAAAdAAAAABBc">
 
 ## Check My Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Qasim-Raza&show_icons=true&theme=radical&count_private=true)
