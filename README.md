@@ -22,7 +22,8 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 
 <h3 align="center">Interested in anything related to Tech</h3>
 
- <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /><br><br> 
+ <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+ <h3 align="left"> <br> </h3>    
 
 <hr>
 
