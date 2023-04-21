@@ -22,6 +22,20 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 
 <hr>
 
+## Education
+
+<br>
+BS Software Engineering, Sindh Madressatul Islam University, 5th Semester
+(2021-2025) Karachi. <br><br>
+
+Intermediate in Pre-Engineering, Islamia Government Science College Karachi
+(2018-2020) Karachi. <br>
+
+Matric in Science, Haji Akber School Karachi
+(2016-2018) Karachi.
+
+<hr>
+
 <h3 align="center">I am constantly seeking to learn more about the latest developments in the tech industry.</h3>
 
 <img align="left" alt="GIF" src="https://gist.github.com/lianperson/5f0f52604b03ad80c82db790c474993c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
