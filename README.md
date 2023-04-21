@@ -26,6 +26,17 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 
 <img align="left" alt="GIF" src="https://gist.github.com/lianperson/5f0f52604b03ad80c82db790c474993c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
+<h3 align="left">Languages and Tools:</h3>    
+<p align="left"> 
+</p>
+
+<hr>
+
+
+### Visit My Portfolio: <br>https://sam-myportfolio.web.app <br>
+
+### Check My Resume: <br>https://cvmuhammadsameer.web.app
+
 ## Check My Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Qasim-Raza&show_icons=true&theme=radical&count_private=true)
 
