@@ -30,6 +30,8 @@ I have done Intermediate in Pre-Engineering and Matriculation  in Science.
 <br>
 I am a talented, ambitious, and hardworking individual. As a student, I am an entry-level candidate who is eager to learn and contribute to the organization.
 
+<br>
+
 Academic Background: My academic background in software engineering has provided me with a strong foundation in relevant skills and knowledge, even if I haven't had the opportunity to apply them in a professional setting.
 
 Passion and Determination: Although lacking previous work experience, I am driven and eager to acquire new skills and advance in a professional environment.
