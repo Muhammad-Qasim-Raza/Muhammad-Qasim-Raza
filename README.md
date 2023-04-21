@@ -1,6 +1,6 @@
 ## Hi there I'm <a href="https://www.linkedin.com/in/muhammad-qasim-raza-460a6b227/" target="_blank"> Muhammad Qasim Raza </a>
 
-I'm Muhammad Qasim Raza. I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (5th Semester).<br><br>
+I'm Muhammad Qasim Raza. I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (5th Semester).<br>
 
 My academic background in software engineering has provided me with a strong foundation in relevant skills and knowledge, even if I haven't had the opportunity to apply them in a professional setting. <br>
 
