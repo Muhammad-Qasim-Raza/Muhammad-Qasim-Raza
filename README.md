@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there I'm <a href="" target="_blank"> Muhammad Sameer </a>
+## Hi there I'm <a href="" target="_blank"> Muhammad Qasim Raza </a>
 
 <hr>
 I'm Muhammad Qasim Raza. I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (5th Semester).
