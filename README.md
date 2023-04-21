@@ -59,14 +59,21 @@ Matric in Science, Haji Akber School Karachi
 
 ### Visit My Linkedin Profile: <br>https://www.linkedin.com/in/muhammad-qasim-raza-460a6b227/ <br>
 
+<hr>
+
 ### Check My Resume: <br>https://muhammad-qasim-raza.github.io/My-CV/
+
+<hr>
 
 ## Check My Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Qasim-Raza&show_icons=true&theme=radical&count_private=true)
 
+<hr>
+
 ## Mostly Used top languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Qasim-Raza&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
 
 ## Connect with me
 <p align="left">
