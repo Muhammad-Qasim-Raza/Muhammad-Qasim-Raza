@@ -37,7 +37,7 @@ Matric in Science, Haji Akber School Karachi
 
 <img align="left" alt="GIF" src="https://gist.github.com/lianperson/5f0f52604b03ad80c82db790c474993c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-## Skills  
+## Skills:
 <p align="left"> 
         <a>
             HTML5,
@@ -71,7 +71,7 @@ Matric in Science, Haji Akber School Karachi
 
 <hr>
 
-## Connect with me
+## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-qasim-raza-460a6b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100028797244316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
