@@ -45,13 +45,13 @@ Matric in Science, Haji Akber School Karachi
             Bootstrap,
             JavaScript,
             Python,
+            Programming,
             Microsoft Office,
             Communication Skills,
             Problem Solving,
             Hard working,
             Leadership,
-            Creativity,
-            Programming
+            Creativity
         </a>
 </p>
 
