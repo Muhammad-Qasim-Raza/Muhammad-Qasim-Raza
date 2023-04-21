@@ -2,6 +2,7 @@
 
 <hr>
 I'm Muhammad Qasim Raza. I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (5th Semester).<br><br>
+
 My academic background in software engineering has provided me with a strong foundation in relevant skills and knowledge, even if I haven't had the opportunity to apply them in a professional setting. <br><br>
 
 As part of my ongoing commitment to advancing my skills in web development, I have recently enrolled in MERN Stack Development training at "Bano Qabil Institute." While I have not yet gained hands-on experience with MongoDB, ExpressJS, ReactJS, and NodeJS, I am looking forward to learning about these essential components of full-stack web development and applying them to real-world projects. The program has already provided me with valuable insights into the latest trends and best practices in the field.
@@ -11,11 +12,9 @@ As part of my ongoing commitment to advancing my skills in web development, I ha
 ## About Me
 
 <br>
-I am a talented, ambitious, and hardworking individual. As a student, I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (5th Semester) and I am currently learning MERN Stack Development at "Bano Qabil Institute" to improve my skills in developing full-stack web applications. Although I have just started the program, I am excited to learn about MongoDB, ExpressJS, ReactJS, and NodeJS, which are key tools and technologies used in this field.
+I am a talented, ambitious, and hardworking individual. As a student, I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (5th Semester) and I am currently learning MERN Stack Development at "Bano Qabil Institute" to improve my skills in developing full-stack web applications. Although I have just started the program, I am excited to learn about MongoDB, ExpressJS, ReactJS, and NodeJS, which are key tools and technologies used in this field. <br><br>
 
-.
-
-Passion and Determination: Although lacking previous work experience, I am driven and eager to acquire new skills and advance in a professional environment.
+Passion and Determination: Although lacking previous work experience, I am driven and eager to acquire new skills and advance in a professional environment. <br><br>
 
 Willingness to Learn: As a dedicated and humble student, I recognize that I am just beginning my journey towards expertise in my field. I understand the importance of seeking guidance from those who have already achieved a high level of skill and knowledge, and I am committed to actively seeking out their feedback and advice. By maintaining an open and receptive attitude towards learning, I am confident that I will continue to grow and develop as a professional, and make meaningful contributions to my team and organization.
 
