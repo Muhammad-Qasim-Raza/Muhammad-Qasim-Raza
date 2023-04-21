@@ -10,7 +10,6 @@ As part of my ongoing commitment to advancing my skills in web development, I ha
 
 ## About Me
 
-<br>
 I am a talented, ambitious, and hardworking individual. As a student, I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (5th Semester). <br><br>
 
 I am currently learning MERN Stack Development at "Bano Qabil Institute" to improve my skills in developing full-stack web applications. Although I have just started the program, I am excited to learn about MongoDB, ExpressJS, ReactJS, and NodeJS, which are key tools and technologies used in this field. <br>
