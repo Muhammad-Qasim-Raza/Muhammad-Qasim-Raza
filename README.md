@@ -8,7 +8,7 @@ As part of my ongoing commitment to advancing my skills in web development, I ha
 
 <hr>
 
-## About Me
+## About Me:
 
 I am a talented, ambitious, and hardworking individual. As a student, I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (5th Semester). <br>
 
@@ -20,7 +20,7 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 
 <hr>
 
-## Education
+## Education:
 
 BS Software Engineering, Sindh Madrasa-tul-Islam University City Campus Karachi, "5th Semester"
 (2021-2025). <br>
