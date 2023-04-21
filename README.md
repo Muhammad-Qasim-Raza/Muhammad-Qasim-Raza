@@ -24,8 +24,8 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 
 <h3 align="center">Interested in anything related to Tech</h3>
 
- <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /><br>
-
+ <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+ <h3 align="left">-------------------------------</h3>    
 
 <hr>
 
@@ -41,19 +41,3 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 <a href="https://www.linkedin.com/in/muhammad-qasim-raza-460a6b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100028797244316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
-
-<img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
- 
- <hr>
-<h3 align="left">-------------------------------</h3>    
-
-
-<hr>
-
-### Visit My Portfolio: <br>https://sam-myportfolio.web.app <br>
-
-### Check My Resume: <br>https://cvmuhammadsameer.web.app
-
-
-
-## Check My Github Stats:
