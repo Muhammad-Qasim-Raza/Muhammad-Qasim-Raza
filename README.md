@@ -29,18 +29,18 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 <h3 align="left">Skills:</h3>    
 <p align="left"> 
         <a>
-            1 HTML5 ,
-            2 CSS3 ,
-            3 Bootstrap ,
-            4 JavaScript ,
-            5 Python ,
-            6 Microsoft Office ,
-            7 Communication Skills ,
-            8 Problem Solving ,
-            9 Hard working ,
-            10 Leadership ,
-            11 Creativity ,
-            12 Programming
+            HTML5 ,
+            CSS3 ,
+            Bootstrap ,
+            JavaScript ,
+            Python ,
+            Microsoft Office ,
+            Communication Skills ,
+            Problem Solving ,
+            Hard working ,
+            Leadership ,
+            Creativity ,
+            Programming
         </a>
 </p>
 
