@@ -34,14 +34,13 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
             3 Bootstrap <br> 
             4 JavaScript <br>
             5 Python <br>
-            6 Microsoft <br>
-            7 Office <br>
-            8 Communication Skills <br>
-            9 Problem Solving <br>
-            10 Hard working <br>
-            11 Leadership <br>
-            12 Creativity <br>
-            13 Programming
+            6 Microsoft Office <br>
+            7 Communication Skills <br>
+            8 Problem Solving <br>
+            9 Hard working <br>
+            10 Leadership <br>
+            11 Creativity <br>
+            12 Programming
         </a>
 </p>
 
