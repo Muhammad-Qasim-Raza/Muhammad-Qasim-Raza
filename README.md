@@ -46,13 +46,4 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
  
  <hr>
 
-
-<hr>
-
-### Visit My Portfolio: <br>https://sam-myportfolio.web.app <br>
-
-### Check My Resume: <br>https://cvmuhammadsameer.web.app
-
-
-
 ## Check My Github Stats:
