@@ -24,7 +24,7 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 
 <h3 align="center">I am constantly seeking to learn more about the latest developments in the tech industry.</h3>
 
-<img align="left" alt="GIF" src="https://gist.github.com/lianperson/5f0f52604b03ad80c82db790c474993c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"><br><br>
+<img align="left" alt="GIF" src="https://gist.github.com/lianperson/5f0f52604b03ad80c82db790c474993c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 ## Skills  
 <p align="left"> 
