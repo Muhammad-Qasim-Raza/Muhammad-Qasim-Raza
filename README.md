@@ -45,7 +45,7 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
  
  <hr>
-<h3 align="left">---------------------------------------------------------------------------------------------------------------------------------</h3>    
+<h3 align="left">-------------------------------</h3>    
 
 
 <hr>
