@@ -7,7 +7,6 @@ My academic background in software engineering has provided me with a strong fou
 As part of my ongoing commitment to advancing my skills in web development, I have recently enrolled in MERN Stack Development training at "Bano Qabil Institute." While I have not yet gained hands-on experience with MongoDB, ExpressJS, ReactJS, and NodeJS, I am looking forward to learning about these essential components of full-stack web development and applying them to real-world projects. The program has already provided me with valuable insights into the latest trends and best practices in the field.
 
 <hr>
-<br>
 
 ## About Me
 
@@ -20,7 +19,6 @@ Passion and Determination: Although lacking previous work experience, I am drive
 Willingness to Learn: As a dedicated and humble student, I recognize that I am just beginning my journey towards expertise in my field. I understand the importance of seeking guidance from those who have already achieved a high level of skill and knowledge, and I am committed to actively seeking out their feedback and advice. By maintaining an open and receptive attitude towards learning, I am confident that I will continue to grow and develop as a professional, and make meaningful contributions to my team and organization.
 
 <hr>
-<br>
 
 ## Education
 
@@ -34,11 +32,13 @@ Matric in Science, Haji Akber School Karachi
 (2016-2018).
 
 <hr>
-<br>
 
 <h3 align="center">I am constantly seeking to learn more about the latest developments in the tech industry.</h3>
 
 <img align="left" alt="GIF" src="https://gist.github.com/lianperson/5f0f52604b03ad80c82db790c474993c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+
+<br>
+<br>
 
 ## Skills  
 <p align="left"> 
