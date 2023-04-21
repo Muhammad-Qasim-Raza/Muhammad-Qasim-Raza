@@ -14,7 +14,7 @@ As part of my ongoing commitment to advancing my skills in web development, I ha
 <br>
 I am a talented, ambitious, and hardworking individual. As a student, I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (5th Semester) and I am currently learning MERN Stack Development at "Bano Qabil Institute" to improve my skills in developing full-stack web applications. Although I have just started the program, I am excited to learn about MongoDB, ExpressJS, ReactJS, and NodeJS, which are key tools and technologies used in this field. <br><br>
 
-Passion and Determination: Although lacking previous work experience, I am driven and eager to acquire new skills and advance in a professional environment. <br><br>
+Passion and Determination: Although lacking previous work experience, I am driven and eager to acquire new skills and advance in a professional environment. <br>
 
 Willingness to Learn: As a dedicated and humble student, I recognize that I am just beginning my journey towards expertise in my field. I understand the importance of seeking guidance from those who have already achieved a high level of skill and knowledge, and I am committed to actively seeking out their feedback and advice. By maintaining an open and receptive attitude towards learning, I am confident that I will continue to grow and develop as a professional, and make meaningful contributions to my team and organization.
 
