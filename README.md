@@ -1,8 +1,8 @@
 ## Hi there I'm <a href="https://www.linkedin.com/in/muhammad-qasim-raza-460a6b227/" target="_blank"> Muhammad Qasim Raza </a>
 
 <hr>
-I'm Muhammad Qasim Raza. I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (5th Semester).<br>
-My academic background in software engineering has provided me with a strong foundation in relevant skills and knowledge, even if I haven't had the opportunity to apply them in a professional setting. <br>
+I'm Muhammad Qasim Raza. I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (5th Semester).<br><br>
+My academic background in software engineering has provided me with a strong foundation in relevant skills and knowledge, even if I haven't had the opportunity to apply them in a professional setting. <br><br>
 
 As part of my ongoing commitment to advancing my skills in web development, I have recently enrolled in MERN Stack Development training at "Bano Qabil Institute." While I have not yet gained hands-on experience with MongoDB, ExpressJS, ReactJS, and NodeJS, I am looking forward to learning about these essential components of full-stack web development and applying them to real-world projects. The program has already provided me with valuable insights into the latest trends and best practices in the field.
 
