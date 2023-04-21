@@ -26,38 +26,11 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 
 <img align="left" alt="GIF" src="https://gist.github.com/lianperson/5f0f52604b03ad80c82db790c474993c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-<h3 align="left">Languages and Tools:</h3>    
+<h3 align="left">Skills:</h3>    
 <p align="left"> 
-<div style="display: flex; justify-content: space-between;">
-            <ul>
-                <li>HTML 5</li>
-                <br>
-                <li>CSS 3</li>
-                <br>
-                <li>Bootstrap</li>
-            </ul>
-            <ul>
-                <li>JavaScript</li>
-                <br>
-                <li>Python</li>
-                <br>
-                <li>Microsoft Office</li>
-            </ul>
-            <ul>
-                <li>Communication Skills</li>
-                <br>
-                <li>Problem Solving</li>
-                <br>
-                <li>Hard working</li>
-            </ul>
-            <ul>
-                <li>Leadership</li>
-                <br>
-                <li>Creativity</li>
-                <br>
-                <li>Programming</li>
-            </ul>
-        </div>
+        <a>
+            HTML 5 CSS 3 Bootstrap JavaScript Python Microsoft Office Communication Skills Problem Solving Hard working Leadership Creativity Programming
+        </a>
 </p>
 
 <hr>
