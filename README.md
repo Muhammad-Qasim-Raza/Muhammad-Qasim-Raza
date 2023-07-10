@@ -63,7 +63,7 @@ Matric in Science, Haji Akber School Karachi
 <hr>
 
 ## Check My Github Stats:
-[![GitHub Stats](https://img.shields.io/github/stars/Muhammad-Qasim-Raza/<repository>?color=brightgreen&label=GitHub%20Stats)](https://github.com/Muhammad-Qasim-Raza/<repository>)
+![Muhammad-Qasim-Raza GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Qasim-Raza&show_icons=true&theme=algolia&count_private=true)
 
 ## Mostly Used top languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Qasim-Raza&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
