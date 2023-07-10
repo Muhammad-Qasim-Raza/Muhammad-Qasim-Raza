@@ -1,4 +1,4 @@
-## Hi there I'm <a href="https://www.linkedin.com/in/muhammad-qasim-raza-460a6b227/" > Muhammad Qasim Raza </a>
+## ![Header](./qasim-header-image.png)
 
 I'm Muhammad Qasim Raza. I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (6th Semester).<br>
 
