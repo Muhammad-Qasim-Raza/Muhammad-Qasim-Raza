@@ -1,7 +1,5 @@
 ## ![Header](./qasim-header-image.png)
 
-<hr>
-
 ## About Me:
 
 I'm Muhammad Qasim Raza. I am a talented, ambitious, and hardworking individual. As a student, I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (6th Semester). <br>
