@@ -1,4 +1,4 @@
-## ![Header](./qasim-header-image.png)
+![Header](./qasim-header-image.png)
 
 ## About Me:
 
