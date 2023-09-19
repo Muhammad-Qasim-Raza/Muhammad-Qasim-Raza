@@ -27,6 +27,8 @@ Matric in Science, Haji Akber School Karachi
 
 <img align="left" alt="GIF" src="https://gist.github.com/lianperson/5f0f52604b03ad80c82db790c474993c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
+<br>
+
 ## Skills:
 <p align="left"> 
         <a>
