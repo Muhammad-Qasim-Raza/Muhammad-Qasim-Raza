@@ -32,6 +32,10 @@ Matric in Science, Haji Akber School Karachi
             CSS3,
             Bootstrap,
             JavaScript,
+            React,
+            Node.js,
+            Express.js,
+            MongoDB,    
             Programming,
             Microsoft Office,
             Self-confidence,
@@ -48,7 +52,7 @@ Matric in Science, Haji Akber School Karachi
 
 ### Visit My Linkedin Profile: <br>https://www.linkedin.com/in/muhammad-qasim-raza-460a6b227/ <br>
 
-### Check My Resume: <br> 
+### Check My Resume: <br> https://drive.google.com/file/d/1Sl_Xu9_sZYYJTPnDFpCbt25-XnyDu9Z7/view
 <hr>
 
 ## Check My Github Stats:
