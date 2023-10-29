@@ -4,7 +4,7 @@
 
 I'm Muhammad Qasim Raza. I am a talented, ambitious, and hardworking individual. As a student, I'm doing Bs Software Engineering from Sindh Madrasa-tul-Islam University, City Campus, Karachi. It's my third year at University (6th Semester). <br>
 
-I have successfully completed the MERN Stack Development program at "Bano Qabil Institute" and have received a well-deserved certificate. During the course, I acquired valuable skills in developing full-stack web applications, gaining proficiency in MongoDB, ExpressJS, ReactJS, and NodeJS, which are essential tools and technologies in this field.
+I have successfully completed the MERN Stack Development program at "Bano Qabil Institute" and have received a well-deserved certificate. During the course, I acquired valuable skills in developing full-stack web applications with MongoDB, ExpressJS, ReactJS, and NodeJS, which are essential tools and technologies in the web development field.
 
 <hr>
 
