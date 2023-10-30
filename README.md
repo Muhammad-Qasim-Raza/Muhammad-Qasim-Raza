@@ -33,13 +33,13 @@ Here are some of the skills I have cultivated:
 
 ## Certifications
 
-- [![Certification](https://img.icons8.com/ios/50/FFD700/link--v1.png)](https://drive.google.com/file/d/16WewQ9BGezo_tNb9Wc9btBy_OPCrlGMn/view) Web Development - MERN Full Stack (Bano Qabil)
+- [![Certification](https://img.icons8.com/ios/30/FFD700/link--v1.png)](https://drive.google.com/file/d/16WewQ9BGezo_tNb9Wc9btBy_OPCrlGMn/view) Web Development - MERN Full Stack (Bano Qabil)
 
-- [![Certification](https://img.icons8.com/ios/50/FFD700/link--v1.png)](https://drive.google.com/file/d/16UKaq6ZXje9Ui-l9jpxokqtwBJoUvU5c/view) JavaScript (Saylani Mass IT Training)
+- [![Certification](https://img.icons8.com/ios/30/FFD700/link--v1.png)](https://drive.google.com/file/d/16UKaq6ZXje9Ui-l9jpxokqtwBJoUvU5c/view) JavaScript (Saylani Mass IT Training)
 
-- [![Certification](https://img.icons8.com/ios/50/FFD700/link--v1.png)](https://drive.google.com/file/d/1-gmBLySEH5yek5VNnF-_TUn7OZZFUXlV/view) HTML5, CSS3, and JavaScript (Pluralsight)
+- [![Certification](https://img.icons8.com/ios/30/FFD700/link--v1.png)](https://drive.google.com/file/d/1-gmBLySEH5yek5VNnF-_TUn7OZZFUXlV/view) HTML5, CSS3, and JavaScript (Pluralsight)
 
-- [![Certification](https://img.icons8.com/ios/50/FFD700/link--v1.png)](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view) IT Essentials: PC Hardware and Software (Cisco)
+- [![Certification](https://img.icons8.com/ios/30/FFD700/link--v1.png)](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view) IT Essentials: PC Hardware and Software (Cisco)
 
 ## Connect with Me
 
