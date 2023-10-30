@@ -33,10 +33,11 @@ Here are some of the skills I have cultivated:
 
 ## Certifications
 
-- [Web Development - MERN Full Stack (Bano Qabil)](https://drive.google.com/file/d/16WewQ9BGezo_tNb9Wc9btBy_OPCrlGMn/view)
-- [JavaScript (Saylani Mass IT Training)](https://drive.google.com/file/d/16UKaq6ZXje9Ui-l9jpxokqtwBJoUvU5c/view)
-- [HTML5, CSS3, and JavaScript (Pluralsight)](https://drive.google.com/file/d/1-gmBLySEH5yek5VNnF-_TUn7OZZFUXlV/view)
-- [IT Essentials: PC Hardware and Software (Cisco)](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view)
+- :computer: [Web Development - MERN Full Stack (Bano Qabil)](https://drive.google.com/file/d/16WewQ9BGezo_tNb9Wc9btBy_OPCrlGMn/view)
+- :desktop_computer: [JavaScript (Saylani Mass IT Training)](https://drive.google.com/file/d/16UKaq6ZXje9Ui-l9jpxokqtwBJoUvU5c/view)
+- :art: [HTML5, CSS3, and JavaScript (Pluralsight)](https://drive.google.com/file/d/1-gmBLySEH5yek5VNnF-_TUn7OZZFUXlV/view)
+- :gear: [IT Essentials: PC Hardware and Software (Cisco)](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view)
+
 
 ## Connect with Me
 
