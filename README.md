@@ -31,6 +31,13 @@ Here are some of the skills I have cultivated:
 - **General Skills**: Programming, Microsoft Office, Self-confidence, Communication Skills
 - **Soft Skills**: Problem Solving, Hardworking, Leadership, Creativity, Adaptability
 
+## Certifications
+
+- [Web Development - MERN Full Stack (Bano Qabil)](https://drive.google.com/file/d/16WewQ9BGezo_tNb9Wc9btBy_OPCrlGMn/view)
+- [JavaScript (Saylani Mass IT Training)](https://drive.google.com/file/d/16UKaq6ZXje9Ui-l9jpxokqtwBJoUvU5c/view)
+- [HTML5, CSS3, and JavaScript (Pluralsight)](https://drive.google.com/file/d/1-gmBLySEH5yek5VNnF-_TUn7OZZFUXlV/view)
+- [IT Essentials: PC Hardware and Software (Cisco)](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view)
+
 ## Connect with Me
 
 - **LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/muhammad-qasim-raza-se/)
