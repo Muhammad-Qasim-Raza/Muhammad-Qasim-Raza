@@ -4,9 +4,9 @@
 
 ## About Me
 
-Hello! I'm Muhammad Qasim Raza, a passionate and dedicated student pursuing a Bachelor's degree in Software Engineering at Sindh Madrasa-tul-Islam University, City Campus, Karachi. I'm currently in my third year, or 6th semester, of the program.
+Hello, I'm Muhammad Qasim Raza, a dedicated student pursuing a Bachelor's degree in Software Engineering at Sindh Madrasa-tul-Islam University, City Campus, Karachi. Currently in my third year (6th semester), I am deeply committed to honing my skills in software development.
 
-I recently completed the MERN Stack Development program at "Bano Qabil Institute," where I earned a well-deserved certificate. During this course, I gained valuable expertise in building full-stack web applications using MongoDB, ExpressJS, ReactJS, and NodeJS, which are fundamental technologies in the web development field.
+I recently completed the MERN Stack Development program at "Bano Qabil Institute," achieving a well-earned certification. This intensive course equipped me with expertise in building full-stack web applications using MongoDB, ExpressJS, ReactJS, and NodeJS—vital technologies in the web development landscape.
 
 ## Education
 
@@ -14,9 +14,9 @@ I recently completed the MERN Stack Development program at "Bano Qabil Institute
 - **Intermediate in Pre-Engineering:** Islamia Government Science College Karachi (2018-2020)
 - **Matric in Science:** Haji Akber School Karachi (2016-2018)
 
-## Constantly Learning
+## Commitment to Learning
 
-I am passionate about staying updated with the latest tech trends and continuously expanding my knowledge in the tech industry.
+I'm passionate about staying abreast of the latest advancements in the tech industry, perpetually seeking to expand my knowledge.
 
 <p align="center">
   <img src="https://gist.github.com/lianperson/5f0f52604b03ad80c82db790c474993c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="GIF">
@@ -24,25 +24,12 @@ I am passionate about staying updated with the latest tech trends and continuous
 
 ## Skills
 
-Here are some of the skills I have acquired and developed:
+Here are some of the skills I have cultivated:
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Programming
-- Microsoft Office
-- Self-confidence
-- Communication Skills
-- Problem Solving
-- Hard working
-- Leadership
-- Creativity
-- Adaptability
+- **Web Technologies**: HTML5, CSS3, Bootstrap, JavaScript, React
+- **Server Technologies**: Node.js, Express.js, MongoDB
+- **General Skills**: Programming, Microsoft Office, Self-confidence, Communication Skills
+- **Soft Skills**: Problem Solving, Hardworking, Leadership, Creativity, Adaptability
 
 ## Connect with Me
 
@@ -53,7 +40,7 @@ Here are some of the skills I have acquired and developed:
 
 ![Muhammad-Qasim-Raza GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Qasim-Raza&show_icons=true&theme=algolia&count_private=true)
 
-## Mostly Used Languages
+## Most Used Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Qasim-Raza&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
