@@ -33,17 +33,13 @@ Here are some of the skills I have cultivated:
 
 ## Certifications
 
-- [![Certification](![image](https://github.com/Muhammad-Qasim-Raza/Muhammad-Qasim-Raza/assets/115484433/cc91a4f5-5cfe-40cc-a366-e520c283f1c6)
-)](https://drive.google.com/file/d/16WewQ9BGezo_tNb9Wc9btBy_OPCrlGMn/view) Web Development - MERN Full Stack (Bano Qabil)
+- Web Development - MERN Full Stack (Bano Qabil) [![Certification](https://img.icons8.com/ios/30/FFD700/link--v1.png)](https://drive.google.com/file/d/16WewQ9BGezo_tNb9Wc9btBy_OPCrlGMn/view)
 
-- [![Certification](![image](https://github.com/Muhammad-Qasim-Raza/Muhammad-Qasim-Raza/assets/115484433/0f675f19-dd88-4e82-9911-84e98333aea8)
-)](https://drive.google.com/file/d/16UKaq6ZXje9Ui-l9jpxokqtwBJoUvU5c/view) JavaScript (Saylani Mass IT Training)
+- JavaScript (Saylani Mass IT Training) [![Certification](https://img.icons8.com/ios/30/FFD700/link--v1.png)](https://drive.google.com/file/d/16UKaq6ZXje9Ui-l9jpxokqtwBJoUvU5c/view)
 
-- [![Certification](![image](https://github.com/Muhammad-Qasim-Raza/Muhammad-Qasim-Raza/assets/115484433/e006026d-4521-4832-ae5f-cd949ea7ffbb)
-)](https://drive.google.com/file/d/1-gmBLySEH5yek5VNnF-_TUn7OZZFUXlV/view) HTML5, CSS3, and JavaScript (Pluralsight)
+- HTML5, CSS3, and JavaScript (Pluralsight) [![Certification](https://img.icons8.com/ios/30/FFD700/link--v1.png)](https://drive.google.com/file/d/1-gmBLySEH5yek5VNnF-_TUn7OZZFUXlV/view)
 
-- [![Certification](![image](https://github.com/Muhammad-Qasim-Raza/Muhammad-Qasim-Raza/assets/115484433/43abe453-dcb1-4ccb-93cb-6e70bcfba35a)
-)](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view) IT Essentials: PC Hardware and Software (Cisco)
+- IT Essentials: PC Hardware and Software (Cisco) [![Certification](https://img.icons8.com/ios/30/FFD700/link--v1.png)](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view)
 
 ## Connect with Me
 
