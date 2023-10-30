@@ -12,7 +12,7 @@ I recently completed the MERN Stack Development program at "Bano Qabil Institute
 
 - **BS Software Engineering:** Sindh Madrasa-tul-Islam University, City Campus Karachi (2021-2025)
 - **Intermediate in Pre-Engineering:** Islamia Government Science College Karachi (2018-2020)
-- **Matric in Science:** Haji Akber School Karachi (2016-2018)
+- **Matric in Science:** Haji Akber School Karachi (2018)
 
 ## Commitment to Learning
 
