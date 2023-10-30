@@ -52,7 +52,7 @@ Matric in Science, Haji Akber School Karachi
 
 ### Visit My Linkedin Profile: <br> https://www.linkedin.com/in/muhammad-qasim-raza-se/ <br>
 
-### Check My Resume: <br> [https://drive.google.com/file/d/1c-uBf__WIzLINr25Z8yd-pRhvzBkgfjH/view](https://drive.google.com/file/d/1cY02NQHotodo8zXWi8Bn8f25chk86cr5/view?usp=drivesdk)
+### Check My CV: <br> [MY CV](https://drive.google.com/file/d/1cY02NQHotodo8zXWi8Bn8f25chk86cr5/view?usp=drivesdk)
 <hr>
 
 ## Check My Github Stats:
