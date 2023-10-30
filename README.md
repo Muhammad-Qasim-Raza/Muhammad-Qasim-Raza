@@ -43,8 +43,8 @@ Here are some of the skills I have cultivated:
 
 ## Connect with Me
 
-- **LinkedIn Profile:** &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/muhammad-qasim-raza-se/)
-- **View My CV:** &nbsp;&nbsp; [My CV](https://drive.google.com/file/d/1cY02NQHotodo8zXWi8Bn8f25chk86cr5/view?usp=drivesdk)
+- **LinkedIn Profile:** &nbsp;&nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-qasim-raza-se/)
+- **My CV:** &nbsp;&nbsp; [View My CV](https://drive.google.com/file/d/1cY02NQHotodo8zXWi8Bn8f25chk86cr5/view?usp=drivesdk)
 
 ## GitHub Stats
 
