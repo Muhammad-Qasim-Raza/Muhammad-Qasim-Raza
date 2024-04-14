@@ -19,7 +19,7 @@ I recently completed the MERN Stack Development program at "Bano Qabil Institute
 I am passionate about staying updated with the latest tech trends and continuously expanding my knowledge in the tech industry.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="GIF" width="400">
 </p>
 
 ## Skills
