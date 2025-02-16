@@ -4,7 +4,7 @@
 
 ## About Me
 
-🚀 Hello, I'm Muhammad Qasim Raza  
+### 🚀 Hello, I'm Muhammad Qasim Raza  
 **A passionate Software Engineer** | **MERN Stack Developer** | **Problem Solver**  
 
 🎓 **Recent Graduate** with a **BS in Software Engineering** from Sindh Madrasa-tul-Islam University, City Campus, Karachi.  
