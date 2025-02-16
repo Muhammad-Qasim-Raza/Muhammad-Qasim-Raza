@@ -14,7 +14,7 @@
 **🔧 Technical Toolkit**
 
 ✨ **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, React  
-✨ **Backend**: Node.js, Express.js, REST APIs  
+✨ **Backend**: Node.js, Express.js
 ✨ **Database**: MongoDB  
 ✨ **Tools**: Git, GitHub, VS Code  
 
