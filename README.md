@@ -5,12 +5,14 @@
 ## About Me
 
 **🚀 Hello, I'm Muhammad Qasim Raza**
+
 **A passionate Software Engineer** | **MERN Stack Developer** | **Problem Solver**  
 
 🎓 **Recent Graduate** with a **BS in Software Engineering** from Sindh Madrasa-tul-Islam University, City Campus, Karachi.  
 💻 **Certified MERN Stack Developer** (Bano Qabil Institute), skilled in building full-stack applications with **MongoDB, ExpressJS, ReactJS, and NodeJS**.  
 
 **🔧 Technical Toolkit**
+
 ✨ **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, React  
 ✨ **Backend**: Node.js, Express.js, REST APIs  
 ✨ **Database**: MongoDB  
