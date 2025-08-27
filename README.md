@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./qasim-header-image.png" alt="Header">
+  <img src="./qasim-header-imae.png" alt="Header">
 </p>
 
 ## About Me
