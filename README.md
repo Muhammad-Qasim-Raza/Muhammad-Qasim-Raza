@@ -43,13 +43,13 @@ Problem Solving | Communication | Leadership | Adaptability | Team Work
 
 ## Certifications
 
-- **Web Development - MERN Full Stack (Bano Qabil)** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/16WewQ9BGezo_tNb9Wc9btBy_OPCrlGMn/view)
+- **Web Development** from **Bano Qabil Institute** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/16WewQ9BGezo_tNb9Wc9btBy_OPCrlGMn/view)
 
-- **JavaScript (Saylani Mass IT Training)** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/16UKaq6ZXje9Ui-l9jpxokqtwBJoUvU5c/view)
+- **JavaScript** from **Saylani Mass IT Training** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/16UKaq6ZXje9Ui-l9jpxokqtwBJoUvU5c/view)
 
-- **HTML5, CSS3, and JavaScript (Pluralsight)** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/1-gmBLySEH5yek5VNnF-_TUn7OZZFUXlV/view)
+- **HTML5, CSS3, and JavaScript** from **Pluralsight** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/1-gmBLySEH5yek5VNnF-_TUn7OZZFUXlV/view)
 
-- **IT Essentials: PC Hardware and Software (Cisco)** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view)
+- **IT Essentials: PC Hardware and Software** from **Cisco** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view)
 
 ## Curriculum Vitae
 
