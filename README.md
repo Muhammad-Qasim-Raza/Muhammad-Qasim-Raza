@@ -40,12 +40,11 @@ I am passionate about staying updated with the latest tech trends and continuous
 
 ## Skills
 
-Here are some of the skills I have cultivated:
+**Technical Skills:**  
+HTML5 | CSS3 | Bootstrap | JavaScript | Microsoft Office  
 
-- **Web Technologies**: HTML5, CSS3, Bootstrap, JavaScript, React
-- **Server Technologies**: Node.js, Express.js, MongoDB
-- **General Skills**: Programming, Microsoft Office, Self-confidence, Communication Skills
-- **Soft Skills**: Problem Solving, Hardworking, Leadership, Creativity, Adaptability
+**Soft & General Skills:**  
+Problem Solving | Communication | Leadership | Adaptability | Team Work
 
 ## Certifications
 
