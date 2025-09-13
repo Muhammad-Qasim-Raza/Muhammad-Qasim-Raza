@@ -12,7 +12,7 @@
 - ✨ **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, React    
 - ✨ **Backend**: Node.js, Express.js    
 - ✨ **Database**: MongoDB    
-- ✨ **Tools & Project Management**: Git, GitHub, VS Code, Jira (Project Management)  
+- ✨ **Tools & Project Management**: Git, GitHub, VS Code, Jira
 
 **🎯 Goals:**
 - Building scalable, user-friendly web applications.  
