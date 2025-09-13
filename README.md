@@ -12,7 +12,7 @@
 - ✨ **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, React    
 - ✨ **Backend**: Node.js, Express.js    
 - ✨ **Database**: MongoDB    
-- ✨ **Tools**: Git, GitHub, VS Code  
+- ✨ **Tools & Project Management**: Git, GitHub, VS Code, Jira (Project Management)  
 
 **🎯 Goals:**
 - Building scalable, user-friendly web applications.  
@@ -51,9 +51,8 @@ Problem Solving | Communication | Leadership | Adaptability | Team Work
 
 - **IT Essentials: PC Hardware and Software (Cisco)** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view)
 
-## Connect with Me
+## Curriculum Vitae
 
-- **LinkedIn Profile:** &nbsp;&nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-qasim-raza-se/)
 - **My CV:** &nbsp;&nbsp; [View My CV](https://drive.google.com/file/d/16FaKdn4qRdbd_PaHJKSFOcNxtVrbxOu_/view?usp=drivesdk)
 
 ## GitHub Stats
@@ -70,3 +69,4 @@ Feel free to connect with me on social media:
 
 [<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />](https://www.linkedin.com/in/muhammad-qasim-raza-se/)
 [<img align="left" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />](https://www.facebook.com/qasimraza.se)
+[<img align="left" alt="WhatsApp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" />](https://wa.me/923262955869)
