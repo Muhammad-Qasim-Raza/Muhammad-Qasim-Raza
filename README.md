@@ -9,13 +9,12 @@
 🎓 I am a **fresh BS Software Engineering graduate** from Sindh Madrasa-tul-Islam University, City Campus, Karachi. I have a solid academic foundation and a strong interest in technology, with a focus on continuous learning and growth.
 
 **🔧 Technical Toolkit I Have Worked With:**    
-
 ✨ **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, React    
 ✨ **Backend**: Node.js, Express.js    
 ✨ **Database**: MongoDB    
 ✨ **Tools**: Git, GitHub, VS Code  
 
-**🎯 Goals:**  
+**🎯 Goals:**
 - Building scalable, user-friendly web applications.  
 - Collaborating on open-source projects.  
 - Continuously learning and exploring new technologies.  
