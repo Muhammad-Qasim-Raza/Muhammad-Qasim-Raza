@@ -32,13 +32,23 @@ I am passionate about staying updated with the latest tech trends and continuous
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Learning GIF" width="400">
 </p>
 
-## Skills
+## 🧩 Skills
 
-**Technical Skills:**  
-HTML5 | CSS3 | Bootstrap | JavaScript | Microsoft Office  
+### 🛠 Technical Skills  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</p>
 
-**Soft & General Skills:**  
-Problem Solving | Communication | Leadership | Adaptability | Team Work
+### 🤝 Soft & General Skills  
+- 🧠 Problem Solving  
+- 🗣️ Communication  
+- 🧭 Leadership  
+- 🔄 Adaptability  
+- 🤝 Teamwork
 
 ## Certifications
 
