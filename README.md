@@ -63,6 +63,10 @@ Problem Solving | Communication | Leadership | Adaptability | Team Work
 
 ![Top Languages](https://github-readme-stats-blush-kappa-52.vercel.app/api/top-langs/?username=Muhammad-Qasim-Raza&theme=dark&hide_border=true&layout=compact&count-private=true&langs_count=20&hide=CMake,Makefile,Swift,Objective-C,Kotlin)
 
+## Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Qasim-Raza&theme=darkhub&no-frame=true&margin-w=5&title=Repositories,Experience,Stars,Commits,Followers)
+
 ## Let's Connect
 
 Feel free to connect with me on social media:
