@@ -19,11 +19,16 @@
 - Collaborating on open-source projects.  
 - Continuously learning and exploring new technologies.  
 
-## Education
+## 🎓 Education
 
-- **BS Software Engineering:** Sindh Madrasa-tul-Islam University, City Campus Karachi (2021-2025)
-- **Intermediate in Pre-Engineering:** Islamia Government Science College Karachi (2018-2020)
-- **Matric in Science:** Haji Akber School Karachi (2018)
+- **BS in Software Engineering (2021–2025)**  
+  Sindh Madressatul Islam University, Karachi
+
+- **Intermediate in Pre-Engineering (2018–2020)**  
+  Islamia Government Science College, Karachi
+
+- **Matriculation in Science (2016–2018)**  
+  Haji Akber School, Karachi
 
 ## Commitment to Learning
 
