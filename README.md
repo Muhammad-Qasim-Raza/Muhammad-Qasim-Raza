@@ -61,7 +61,7 @@ Problem Solving | Communication | Leadership | Adaptability | Team Work
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Qasim-Raza&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-blush-kappa-52.vercel.app/api/top-langs/?username=Muhammad-Qasim-Raza&theme=dark&hide_border=true&layout=compact&count-private=true&langs_count=20&hide=CMake,Makefile,Swift,Objective-C,Kotlin)
 
 ## Let's Connect
 
