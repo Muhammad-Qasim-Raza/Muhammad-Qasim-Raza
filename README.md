@@ -50,29 +50,33 @@ I am passionate about staying updated with the latest tech trends and continuous
 - 🔄 Adaptability  
 - 🤝 Teamwork
 
-## Certifications
+## 🏅 Certifications
 
-- **Web Development** from **Bano Qabil Institute** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/16WewQ9BGezo_tNb9Wc9btBy_OPCrlGMn/view)
+- **Web Development** — Bano Qabil Institute  
+  [View Certification](https://drive.google.com/file/d/16WewQ9BGezo_tNb9Wc9btBy_OPCrlGMn/view)
 
-- **JavaScript** from **Saylani Mass IT Training** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/16UKaq6ZXje9Ui-l9jpxokqtwBJoUvU5c/view)
+- **JavaScript** — Saylani Mass IT Training  
+  [View Certification](https://drive.google.com/file/d/16UKaq6ZXje9Ui-l9jpxokqtwBJoUvU5c/view)
 
-- **HTML5, CSS3, and JavaScript** from **Pluralsight** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/1-gmBLySEH5yek5VNnF-_TUn7OZZFUXlV/view)
+- **HTML5, CSS3 & JavaScript** — Pluralsight  
+  [View Certification](https://drive.google.com/file/d/1-gmBLySEH5yek5VNnF-_TUn7OZZFUXlV/view)
 
-- **IT Essentials: PC Hardware and Software** from **Cisco** &nbsp;&nbsp; [View Certification](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view)
+- **IT Essentials: PC Hardware & Software** — Cisco  
+  [View Certification](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view)
+  
+## 📄 Curriculum Vitae
 
-## Curriculum Vitae
+- **My CV:** [View My CV](https://www.canva.com/design/DAG6A6__c_A/xiJ17sp_0Cyr21BFJP6ayQ/edit?utm_content=DAG6A6__c_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- **My CV:** &nbsp;&nbsp; [View My CV](https://www.canva.com/design/DAG6A6__c_A/xiJ17sp_0Cyr21BFJP6ayQ/edit?utm_content=DAG6A6__c_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Muhammad-Qasim-Raza GitHub Stats](https://github-readme-stats-blush-kappa-52.vercel.app/api?username=Muhammad-Qasim-Raza&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-## Most Used Languages
+## 📈 Most Used Languages
 
 ![Top Languages](https://github-readme-stats-blush-kappa-52.vercel.app/api/top-langs/?username=Muhammad-Qasim-Raza&theme=dark&hide_border=true&layout=compact&count-private=true&langs_count=20&hide=CMake,Makefile,Swift,Objective-C,Kotlin)
 
-## Trophies
+## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Qasim-Raza&theme=darkhub&no-frame=true&margin-w=5&title=Repositories,Experience,Stars,Commits,Followers)
 
