@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 I'm **Muhammad Qasim Raza**, a fresh **BS Software Engineering graduate** from Sindh Madressatul Islam University, Karachi.  
-I’m passionate about technology, continuous learning, and building efficient, user-focused digital solutions.
+I have a solid academic foundation and a strong interest in technology, with a focus on continuous learning and growth.
 
 **🛠 Technical Skills I Work With:**  
 HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js, MongoDB, Git, GitHub, VS Code, Jira.
