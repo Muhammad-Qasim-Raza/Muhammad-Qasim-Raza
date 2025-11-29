@@ -24,12 +24,13 @@ Creating scalable web applications, contributing to meaningful projects, and con
 - **Matriculation in Science (2016–2018)**  
   Haji Akber School, Karachi
 
-## Commitment to Learning
+## 📚 Commitment to Learning
 
-I am passionate about staying updated with the latest tech trends and continuously expanding my knowledge in the tech industry.
+I’m deeply committed to continuous learning and staying aligned with modern technologies.  
+Exploring new tools, improving my skills, and keeping up with industry trends is a core part of my growth as a developer.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Learning GIF" width="400">
 </p>
 
 ## Skills
