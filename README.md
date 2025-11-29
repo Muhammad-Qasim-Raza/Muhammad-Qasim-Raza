@@ -26,8 +26,7 @@ Creating scalable web applications, contributing to meaningful projects, and con
 
 ## 📚 Commitment to Learning
 
-I’m deeply committed to continuous learning and staying aligned with modern technologies.  
-Exploring new tools, improving my skills, and keeping up with industry trends is a core part of my growth as a developer.
+I am passionate about staying updated with the latest tech trends and continuously expanding my knowledge in the tech industry.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Learning GIF" width="400">
