@@ -53,7 +53,7 @@ Problem Solving | Communication | Leadership | Adaptability | Team Work
 
 ## Curriculum Vitae
 
-- **My CV:** &nbsp;&nbsp; [View My CV]([https://drive.google.com/file/d/16FaKdn4qRdbd_PaHJKSFOcNxtVrbxOu_/view?usp=drivesdk](https://www.canva.com/design/DAG6A6__c_A/xiJ17sp_0Cyr21BFJP6ayQ/edit?utm_content=DAG6A6__c_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- **My CV:** &nbsp;&nbsp; [View My CV](https://www.canva.com/design/DAG6A6__c_A/xiJ17sp_0Cyr21BFJP6ayQ/edit?utm_content=DAG6A6__c_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## GitHub Stats
 
