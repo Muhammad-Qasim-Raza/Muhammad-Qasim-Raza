@@ -40,23 +40,32 @@ I am passionate about staying updated with the latest tech trends and continuous
 
 ## 🧩 Skills
 
-🛠 Technical Skills  
+🛠 Technical & Language Skills
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+🧰 Tools & Development Environment
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
-🤝 Soft & General Skills  
-- 🧠 Problem Solving  
-- 🗣️ Communication  
-- 🧭 Leadership  
-- 🔄 Adaptability  
-- 🤝 Teamwork
-
----
+🤝 Soft Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptability-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teamwork-03A9F4?style=for-the-badge" />
+</p>
 
 ## 🏅 Certifications
 
