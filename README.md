@@ -57,7 +57,7 @@ Problem Solving | Communication | Leadership | Adaptability | Team Work
 
 ## GitHub Stats
 
-![Muhammad-Qasim-Raza GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Qasim-Raza&show_icons=true&theme=algolia&count_private=true)
+![Muhammad-Qasim-Raza GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhammad-Qasim-Raza&show_icons=true&theme=transparent)
 
 ## Most Used Languages
 
