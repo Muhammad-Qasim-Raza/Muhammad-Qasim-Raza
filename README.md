@@ -34,7 +34,7 @@ I am passionate about staying updated with the latest tech trends and continuous
 
 ## 🧩 Skills
 
-### 🛠 Technical Skills  
+🛠 Technical Skills  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,7 +43,7 @@ I am passionate about staying updated with the latest tech trends and continuous
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
-### 🤝 Soft & General Skills  
+🤝 Soft & General Skills  
 - 🧠 Problem Solving  
 - 🗣️ Communication  
 - 🧭 Leadership  
@@ -80,10 +80,12 @@ I am passionate about staying updated with the latest tech trends and continuous
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Qasim-Raza&theme=darkhub&no-frame=true&margin-w=5&title=Repositories,Experience,Stars,Commits,Followers)
 
-Let's Connect
+## Let's Connect
 
 Feel free to connect with me on social media:
 
-<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />  
-<img align="left" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />  
-<img align="left" alt="WhatsApp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" />
+[<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />](https://www.linkedin.com/in/muhammad-qasim-raza-se/)
+[<img align="left" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />](https://www.facebook.com/mqasimraza.se)
+[<img align="left" alt="WhatsApp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" />](https://wa.me/923262955869)
+
+<br><br>
