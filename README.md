@@ -68,5 +68,5 @@ Problem Solving | Communication | Leadership | Adaptability | Team Work
 Feel free to connect with me on social media:
 
 [<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />](https://www.linkedin.com/in/muhammad-qasim-raza-se/)
-[<img align="left" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />](https://www.facebook.com/qasimraza.se)
+[<img align="left" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />](https://www.facebook.com/mqasimraza.se)
 [<img align="left" alt="WhatsApp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" />](https://wa.me/923262955869)
