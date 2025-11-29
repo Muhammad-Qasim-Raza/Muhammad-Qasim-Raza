@@ -2,22 +2,25 @@
   <img src="./qasim-header-image.png" alt="Header">
 </p>
 
-## About Me
+## 👨‍💻 About Me
 
-**🚀 Hello, I'm Muhammad Qasim Raza**
+**Hi, I'm Muhammad Qasim Raza — a passionate Software Engineering graduate with a strong interest in modern web technologies and continuous learning.**  
+I enjoy building clean, responsive, and user-focused applications while expanding my technical expertise through real-world projects.
 
-🎓 I am a **fresh BS Software Engineering graduate** from Sindh Madrasa-tul-Islam University, City Campus, Karachi. I have a solid academic foundation and a strong interest in technology, with a focus on continuous learning and growth.
+---
 
-**🔧 Technical Toolkit I Have Worked With:**    
-- ✨ **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, React    
-- ✨ **Backend**: Node.js, Express.js    
-- ✨ **Database**: MongoDB    
-- ✨ **Tools & Project Management**: Git, GitHub, VS Code, Jira
+### 🔧 Tech Stack & Tools
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, React  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools & Project Management:** Git, GitHub, VS Code, Jira  
 
-**🎯 Goals:**
-- Building scalable, user-friendly web applications.  
-- Collaborating on open-source projects.  
-- Continuously learning and exploring new technologies.  
+---
+
+### 🎯 Current Goals
+- Developing scalable and user-friendly web applications  
+- Contributing to open-source projects  
+- Enhancing my skills by exploring new frameworks and technologies  
 
 ## 🎓 Education
 
