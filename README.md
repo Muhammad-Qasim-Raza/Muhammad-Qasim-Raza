@@ -13,6 +13,8 @@ HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js, MongoDB, Git, GitH
 **🎯 What I'm Aiming For:**  
 Creating scalable web applications, contributing to meaningful projects, and consistently expanding my technical expertise.
 
+---
+
 ## 🎓 Education
 
 - **BS in Software Engineering (2021–2025)**  
@@ -24,6 +26,8 @@ Creating scalable web applications, contributing to meaningful projects, and con
 - **Matriculation in Science (2016–2018)**  
   Haji Akber School, Karachi
 
+---
+
 ## 📚 Commitment to Learning
 
 I am passionate about staying updated with the latest tech trends and continuously expanding my knowledge in the tech industry.
@@ -31,6 +35,8 @@ I am passionate about staying updated with the latest tech trends and continuous
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Learning GIF" width="400">
 </p>
+
+---
 
 ## 🧩 Skills
 
@@ -50,6 +56,8 @@ I am passionate about staying updated with the latest tech trends and continuous
 - 🔄 Adaptability  
 - 🤝 Teamwork
 
+---
+
 ## 🏅 Certifications
 
 - **Web Development** — Bano Qabil Institute  
@@ -63,22 +71,32 @@ I am passionate about staying updated with the latest tech trends and continuous
 
 - **IT Essentials: PC Hardware & Software** — Cisco  
   [View Certification](https://drive.google.com/file/d/1bt4kclOiQGpO8KICAcPL4V1hRvXB6LVt/view)
-  
+
+---
+
 ## 📄 Curriculum Vitae
 
 - **My CV:** [View My CV](https://www.canva.com/design/DAG6A6__c_A/xiJ17sp_0Cyr21BFJP6ayQ/edit?utm_content=DAG6A6__c_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
 
 ## 📊 GitHub Stats
 
 ![Muhammad-Qasim-Raza GitHub Stats](https://github-readme-stats-blush-kappa-52.vercel.app/api?username=Muhammad-Qasim-Raza&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
+---
+
 ## 📈 Most Used Languages
 
 ![Top Languages](https://github-readme-stats-blush-kappa-52.vercel.app/api/top-langs/?username=Muhammad-Qasim-Raza&theme=dark&hide_border=true&layout=compact&count-private=true&langs_count=20&hide=CMake,Makefile,Swift,Objective-C,Kotlin)
 
+---
+
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Qasim-Raza&theme=darkhub&no-frame=true&margin-w=5&title=Repositories,Experience,Stars,Commits,Followers)
+
+---
 
 ## Let's Connect
 
@@ -89,3 +107,5 @@ Feel free to connect with me on social media:
 [<img align="left" alt="WhatsApp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" />](https://wa.me/923262955869)
 
 <br><br>
+
+---
