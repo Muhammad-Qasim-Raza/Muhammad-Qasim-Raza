@@ -80,10 +80,10 @@ I am passionate about staying updated with the latest tech trends and continuous
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Qasim-Raza&theme=darkhub&no-frame=true&margin-w=5&title=Repositories,Experience,Stars,Commits,Followers)
 
-## Let's Connect
+Let's Connect
 
 Feel free to connect with me on social media:
 
-[<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />](https://www.linkedin.com/in/muhammad-qasim-raza-se/)
-[<img align="left" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />](https://www.facebook.com/mqasimraza.se)
-[<img align="left" alt="WhatsApp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" />](https://wa.me/923262955869)
+<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />  
+<img align="left" alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />  
+<img align="left" alt="WhatsApp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" />
