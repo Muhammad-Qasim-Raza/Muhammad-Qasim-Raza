@@ -2,6 +2,12 @@
   <img src="./qasim-header-image.png" alt="Header">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=45&lines=Hi,+I'm+Muhammad+Qasim+Raza;Software+Engineering+Graduate;Always+Learning+%26+Improving" alt="Typing Animation" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm **Muhammad Qasim Raza**, a fresh **BS Software Engineering graduate** from Sindh Madressatul Islam University, Karachi.  
@@ -66,6 +72,8 @@ I am passionate about staying updated with the latest tech trends and continuous
   <img src="https://img.shields.io/badge/Adaptability-FF9800?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Teamwork-03A9F4?style=for-the-badge" />
 </p>
+
+---
 
 ## 🏅 Certifications
 
