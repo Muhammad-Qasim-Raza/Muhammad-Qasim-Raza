@@ -23,7 +23,7 @@ Creating scalable web applications, contributing to meaningful projects, and con
 
 ## 🎓 Education
 
-- **BS in Software Engineering (2021–2025)**  
+- **BS in Software Engineering (2021–2025)** — *3.0+ CGPA (out of 4.0)*  
   Sindh Madressatul Islam University, Karachi
 
 - **Intermediate in Pre-Engineering (2018–2020)**  
