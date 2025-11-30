@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Muhammad Qasim Raza**, a fresh **BS Software Engineering graduate** from Sindh Madressatul Islam University, Karachi.  
+I'm **Muhammad Qasim Raza**, a **BS Software Engineering graduate** from Sindh Madressatul Islam University, Karachi, with a 3.0+ CGPA out of 4.0.  
 I have a solid academic foundation and a strong interest in technology, with a focus on continuous learning and growth.
 
 **🛠 Technical Skills I Work With:**  
