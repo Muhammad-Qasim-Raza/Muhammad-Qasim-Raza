@@ -93,7 +93,7 @@ I am passionate about staying updated with the latest tech trends and continuous
 
 ## 📄 Curriculum Vitae
 
-- **My CV:** [View My CV](https://www.canva.com/design/DAG6A6__c_A/xiJ17sp_0Cyr21BFJP6ayQ/edit?utm_content=DAG6A6__c_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **My CV:** [View My CV](https://www.canva.com/design/DAG6Kx_ilBk/mdO2ab8MN7RZs-sBI8ojSg/edit?utm_content=DAG6Kx_ilBk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
