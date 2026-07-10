@@ -109,12 +109,6 @@ I am passionate about staying updated with the latest tech trends and continuous
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Qasim-Raza&theme=darkhub&no-frame=true&margin-w=5&title=Repositories,Experience,Stars,Commits,Followers)
-
----
-
 ## Let's Connect
 
 Feel free to connect with me on social media:
